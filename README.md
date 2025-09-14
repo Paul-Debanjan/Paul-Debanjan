@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Debanjan Paul  
 
-<!--
-**Paul-Debanjan/Paul-Debanjan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Kolkata, India | 📧 [debanjanpaul.13@gmail.com](mailto:debanjanpaul.13@gmail.com) | 📱 +91 7890604850  
+🔗 [GitHub](https://github.com/Paul-Debanjan)  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+I’m a **Data Analytics and AI/ML enthusiast** currently pursuing **M.Tech. in Artificial Intelligence & Data Science**.  
+Passionate about **solving real-world problems with Machine Learning, Deep Learning, and Generative AI**.  
+I enjoy working with **complex datasets, building scalable ML models, and creating end-to-end AI solutions**.  
+
+---
+
+## 📌 Projects  
+
+### ⚡ Addressing Class Imbalance in Multi-Class Classification with Generative AI  
+- Balanced **29,650-row cybersecurity dataset** using GPT-based data augmentation.  
+- Implemented **SVM, KNN, and Random Forest classifiers** and improved results compared to **SMOTE**.  
+
+### ⚽ Football Players Transfer & National Squad Recommendation System  
+- Scraped **1,250+ football players’ stats** from European clubs.  
+- Built a **cosine similarity–based recommendation system** for club transfers & national team selections.  
+- Developed a **GUI app with Tkinter & Gradio**.  
+
+### 🔍 Synthetic Fingerprint Generation with GANs  
+- Worked on **6,000 fingerprint images** across all 10 fingers from 600 individuals.  
+- Built a **CNN classifier** for finger type & gender.  
+- Generated **synthetic fingerprint datasets** using **GANs**, producing realistic sets for male & female subjects.  
+
+---
+
+## 🌐 Let's Connect  
+- 📧 [Email Me](mailto:debanjanpaul.13@gmail.com)  
+
+---
+✨ *“Turning Data into Decisions, and Models into Impact.”* ✨
