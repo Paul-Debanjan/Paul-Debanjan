@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Debanjan Paul  
 
-📍 Kolkata, India | 📧 [debanjanpaul.13@gmail.com](mailto:debanjanpaul.13@gmail.com) | 📱 +91 7890604850  
-🔗 [GitHub](https://github.com/Paul-Debanjan)  
+📍 Kolkata, India 
 
 ---
 
